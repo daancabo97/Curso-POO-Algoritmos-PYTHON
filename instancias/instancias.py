@@ -18,3 +18,4 @@ if __name__ == '__main__':
 
      print(coor_1.distancia(coor_2))                   # SABER DISTANCIA ENTRE LAS DOS COORDENADAS 
      print(isinstance(coor_2,Coordenada))              # ISINSTANCE : DETERMINA SI ALGUNA DE ESTAS CORRDENADAS ES INSTANCIA DE LA CLASE Coordenada
+
